@@ -47,7 +47,11 @@
 	<br><br>
 
 	<!-- Implement submit button with type = submit to perform the request when clicked -->
+	<input type="submit" value="Forgot password" />
+
+	<!-- Implement submit button with type = submit to perform the request when clicked -->
 	<input type="submit" value="Login" />
+	
 	<br><br>
 	
 	<button type="button" onclick="history.back()">Back</button>
